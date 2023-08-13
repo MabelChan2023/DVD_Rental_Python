@@ -4,7 +4,7 @@ This project aims to create insight graphs on the DVD Rental database using SQL 
 
 1. Time-series plot showing daily total revenue for Canada, France, and United States 
 
-2. Sentiment analysis on movie descriptions
+2. Sentiment analysis on movie descriptions using RoBERTa-based model from <a href = "https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest">here</a>
    
 3. Visual on how much revenue is coming from different countries to the DVD store
 
