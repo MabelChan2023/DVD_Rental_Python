@@ -10,8 +10,8 @@ This project aims to create insight graphs on the DVD Rental database using SQL 
 
 4. Analysis of which actors are bringing in the most revenue (top 10 ranked)
 
-5. Classify some different countries into some categories
+5. Classify countries into low / medium / high categories based on total revenue
 
-6. Merge that new data-frame from the last step with a dataframe from the dvd db, that gives the countries, so now countries are connected with their classification
+6. Merge that new data-frame from Q5 with a dataframe from the dvd db, that gives the countries, so now countries are connected with their classification
 
 
